@@ -62,7 +62,7 @@ def main(request):
         print(features)                         
 
         data = np.array([features])  
-        file = open(r'F:\Desktop\Aquib extras\Machine Learning\Flight-Price-Prediction\flight.pkl','rb')
+        file = open(r'flight.pkl','rb')
         model = pickle.load(file)
         price = model.predict(data)
 
