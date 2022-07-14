@@ -2,7 +2,7 @@
 
 <p>It's an ml model to predict the price of the flight. Used RandomForestRegressor model to predict the price of the flight.</p>
 
-<h3>Websites<h3/>
+<h3>Website<h3/>
 
 <a href="https://flight-price-prediction-01.herokuapp.com/">Flight-Price-Prediction<a/>
 
