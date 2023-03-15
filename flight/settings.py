@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-cxm((pnr87(zyz%fa!!j(jfym8*0z$787+&^0nj5qd0ql!@0d(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['flight-price-prediction-01.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['.vercel.app','127.0.0.1']
 
 
 # Application definition
